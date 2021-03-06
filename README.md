@@ -4,7 +4,7 @@
 
 "Your App" is a landing pages website, Designed the website from scratch, by using: HTML5, CSS3, JavaScript, and Bootstrap
 
-* You can visit the Protoflio [here](http://ayaabuelsoud.ueuo.com/index.html).
+* You can visit the Website [here](http://ayaabuelsoud.ueuo.com/index.html).
 
 ---
 ### Web Design for Everybody Capstone Project (Portfolio Project)
